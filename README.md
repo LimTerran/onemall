@@ -26,7 +26,10 @@
     > 一起交流，Get 知识。
 
 * 我们迫切希望更多的参与进来，可以加入「交流群」，一起骚聊。
-    * [《Onemall 电商开源项目 —— 应用分层》](http://www.iocoder.cn/Onemall/Application-layer/?vip&onemall)
+    * [《Onemall 电商开源项目 —— 应用分层》](http://www.iocoder.cn/Onemall/Application-layer/?onemall)
+    * [《Onemall 电商开源项目 —— 搭建调试环境》](http://www.iocoder.cn/Onemall/build-debugger-environment/?onemall)
+
+* 前端项目地址：<https://github.com/YunaiV/onemall-web>
 
 # 演示
 
@@ -95,7 +98,7 @@
 
 ## 搭建环境
 
-[搭建调试环境](https://gitee.com/zhijiantianya/onemall/blob/master/docs/setup/quick-start.md)
+[搭建调试环境](http://www.iocoder.cn/Onemall/build-debugger-environment/)
 
 ## 架构图
 
@@ -119,7 +122,7 @@ TODO 此处应有一个架构图的装逼 JPG 图。
 | `pay-service-project` | 支付 RPC 服务 | 随机 |  |
 | `trade-service-project` | 交易 RPC 服务 | 随机 |  |
 | `product-service-project` | 商品 RPC 服务 | 随机 |  |
-| `search-service-project` | 搜索å RPC 服务 | 随机 |  |
+| `search-service-project` | 搜索 RPC 服务 | 随机 |  |
 
 -------
 
